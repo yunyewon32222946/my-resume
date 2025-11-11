@@ -1,1 +1,1 @@
-github repository
+이력서
