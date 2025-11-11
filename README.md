@@ -1,24 +1,27 @@
 # 이력서
-| 1. 기본 정보 | |
+
+## 기본 정보
+| | |
 |:---|:---|
 | 이름 | 윤예원 |
 | 전공 | 단국대학교 소프트웨어학과 |
-| 연락처 | 010- |
+| 연락처 | 010-|
 |이메일|dkucircley@dankook.ac.kr|
-|GitHub|<https://github.com/yunyewon32222946>|
+|GitHub| [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yunyewon32222946) |
 
-| 2. 기술 스택 | |
+## 기술 스택
+| | |
 |:---|:---|
-| 프로그래밍 언어 | JavaScript, Java, Python, C |
-| 도구 | VS Code, IntelliJ IDEA, MySQL |
-| 프레임워크 | Spring Boot |
+| 프로그래밍 언어 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)|
+| 데이터베이스 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|
+| 프레임워크/라이브러리 | ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)|
 
 ## 프로젝트 경험
 ### " 경찰청 통계 기반 범죄 유형별 가장 많이 발생하는 지역, 장소, 시간대 분석 "
-- Pandas로 서로 다른 구조의 3종 데이터셋(지역별, 장소별, 시간대/요일별)을 분석 목적에 맞게 전처리하여 데이터를 통합하고 필요한 데이터만 선별하여 분석 목적에 맞는 데이터셋 구축 <br>
-- Folium을 이용해 지역별 범죄 발생 건수를 지도에 원형 마커 크기로 표시, Matplotlib로 시간대 및 요일별로 주요 범죄 유형을 누적 막대 그래프로 표시하여 직관적으로 시각화하여 범죄 예방 및 대응에 활용 가능한 정보 도출 <br>
+- Pandas로 서로 다른 구조의 3종 데이터셋(지역별, 장소별, 시간대/요일별)을 분석 목적에 맞게 전처리하여 데이터를 통합하고 필요한 데이터만 선별하여 분석 목적에 맞는 데이터셋 구축 
+- Folium을 이용해 지역별 범죄 발생 건수를 지도에 원형 마커 크기로 표시, Matplotlib로 시간대 및 요일별로 주요 범죄 유형을 누적 막대 그래프로 표시하여 직관적으로 시각화하여 범죄 예방 및 대응에 활용 가능한 정보 도출
 
-### "MatchIn - AI 기반 공고형 전문가 매칭 플랫폼 기획 및 설계"
+### " MatchIn - AI 기반 공고형 전문가 매칭 플랫폼 기획 및 설계 "
 - 사용자의 요청을 중심으로 사업자가 매칭되는 공고 기반 매칭 구조와 AI 자동 상담 기능을 결합한 플랫폼 기획
 - 수요자 · 공급자 · 플랫폼 간 서비스 흐름도 및 AI 상담 기능 유료화 등 비즈니스 모델 설계
 - 핵심 기능을 구현하기 위한 프론트엔드, 백엔드, 데이터 베이스, AI, GPS에 적합한 기술 스택(React Native, Firebase, Firestore, Dalogflow 등)을 조사 및 선정
