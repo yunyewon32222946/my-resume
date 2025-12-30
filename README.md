@@ -1,5 +1,5 @@
 # 🌟 윤예원 <br>
-☎️ | 010-7234-2302  <br>
+☎️ |   <br>
 ✉️ | dkucircley@dankook.ac.kr <br>
 🔗 | https://github.com/yunyewon32222946 <br>
 
